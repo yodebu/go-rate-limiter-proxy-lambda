@@ -1,4 +1,4 @@
-module go-rate-limiter-proxy-lambda
+module github.com/yodebu/go-rate-limiter-proxy-lambda
 
 go 1.22.2
 
